@@ -4,6 +4,8 @@ Bu proje, **2025 Kapadokya Hackathonu** için geliştirilmiş bir **otel rezerva
 
 Kullanıcıdan şehir, tarih, kişi sayısı gibi bilgileri alarak otel ve oda rezervasyonu yapar. Ayrıca otel etkinliklerini listeler ve etkinlik rezervasyonu da gerçekleştirebilir.
 
+Otel, oda ve etkinlik bilgilerini almak için, rezervasyonu oluşturmak için **kendi geliştirdiğimiz web servisleri** üzerinden çalışmaktadır.
+
 ## Özellikler
 Agent aşağıdaki işlemleri yapmaktadır:
 - `sehir_sec` — Şehir seçimi
